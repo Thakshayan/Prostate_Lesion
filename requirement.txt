@@ -1,0 +1,8 @@
+monai
+dicom2nifti
+pandas
+tqdm
+matplotlib
+ipywidgets
+elasticdeform
+scikit-image
